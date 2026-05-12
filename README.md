@@ -25,63 +25,63 @@ Fora dos terminais e servidores, valorizo o equilíbrio: sou entusiasta de bons 
 #### 2. As Badges (Tech Stack)
 
 ### 🛜 Redes de Computadores
-Firewall pfSense, OPNsense
-VLAN
-MPLS
-VPN
-Pi-Hole
-BIND9
-Active Directory Samba4 and Microsoft Windows Server AD
-Zabbix
-Grafana
-Nagios
-Cacti
+- Firewall pfSense, OPNsense
+- VLAN
+- MPLS
+- VPN
+- Pi-Hole
+- BIND9
+- Active Directory Samba4 and Microsoft Windows Server AD
+- Zabbix
+- Grafana
+- Nagios
+- Cacti
 
 ### 🛡️🔐 Segurança da Informação
-Wazuh
-Graylog
-Fail2Ban
-HoneyPot
-IDS/IPS - Suricata and Snort
-MISP Project
+- Wazuh
+- Graylog
+- Fail2Ban
+- HoneyPot
+- IDS/IPS - Suricata and Snort
+- MISP Project
 
 ### WEB, protect, Aplication, Proxy
-Apache
-NGNIX - ModSecurity
-Apache Guacamole
-HAProxy
-Traefik
+- Apache
+- NGNIX - ModSecurity
+- Apache Guacamole
+- HAProxy
+- Traefik
 
 ### 🗄️ Databases & Messaging
-PostgreSQL
-MongoDB
-Redis
-SQLite
+- PostgreSQL
+- MongoDB
+- Redis
+- SQLite
 
 ### ☁️ Cloud, Infra, Automação & DevOps
-Docker
-Portainer
-Terraform
-Script Bash
-Script PowerShell
-Backup
-CloudFlare
+- Docker
+- Portainer
+- Terraform
+- Script Bash
+- Script PowerShell
+- Backup
+- CloudFlare
 
 ### Documentação
-Wiki.js
-BookStack
-phpIPAM
-GLPI
+- Wiki.js
+- BookStack
+- phpIPAM
+- GLPI
 
 ### 🤖 AI-Assisted Engineering
-Claude
-OpenAI
+- Claude
+- OpenAI
 
 ### 🔧 Tools
-Swagger
-Postman
-Git
-Prisma
+- Swagger
+- Postman
+- Git
+- Prisma
 
 ## Contato
 
