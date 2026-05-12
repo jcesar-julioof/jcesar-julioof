@@ -15,8 +15,11 @@ Sou movido pela curiosidade técnica e pela resolução de problemas complexos e
 Fora dos terminais e servidores, valorizo o equilíbrio: sou entusiasta de bons cafés e da culinária italiana, gosto do contraste entre a tranquilidade do campo e momentos agitados com amigos, e não abro mão do tradicional churrasco em família aos domingos.
 
 <div align="center">
-![Visitors](https://komarev.com/ghpvc/?username=jcesar-julioof&color=6366f1&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcesarjulioof/)
+
+    ![Visitors](https://komarev.com/ghpvc/?username=jcesar-julioof&color=6366f1&style=flat-square&label=Profile+Views)
+    
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcesarjulioof/)
+
 </div>
 
 #### 2. As Badges (Tech Stack)
