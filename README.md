@@ -18,7 +18,7 @@ Fora dos terminais e servidores, valorizo o equilíbrio: sou entusiasta de bons 
 
 ![Visitors](https://komarev.com/ghpvc/?username=jcesar-julioof&color=6366f1&style=flat-square&label=Profile+Views)
     
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcesarjulioof/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jcesarjulioof/)
 
 </div>
 
