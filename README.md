@@ -10,9 +10,10 @@ class JulioCesar:
         self.fun_fact = "I turn coffee into secure networks."
 ```
 
-Sou movido pela curiosidade técnica e pela resolução de problemas complexos em infraestrutura e segurança da informação. Atualmente, divido meu tempo entre a graduação em Sistemas de Informação no IFG, a gestão do meu ambiente de laboratório de estudo e o voluntariado em projetos de implementação de servidor no IFG. Possuo certificação ISO/IEC 27001 e busco sempre otimizar fluxos de monitoramento e defesa.
+[!TIP]
+> Sou movido pela curiosidade técnica e pela resolução de problemas complexos em infraestrutura e segurança da informação. Atualmente, divido meu tempo entre a graduação em Sistemas de Informação no IFG, a gestão do meu ambiente de laboratório de estudo e o voluntariado em projetos de implementação de servidor no IFG. Possuo certificação ISO/IEC 27001 e busco sempre otimizar fluxos de monitoramento e defesa.
 
-Fora dos terminais e servidores, valorizo o equilíbrio: sou entusiasta de bons cafés e da culinária italiana, gosto do contraste entre a tranquilidade do campo e momentos agitados com amigos, e não abro mão do tradicional churrasco em família aos domingos.
+> Fora dos terminais e servidores, valorizo o equilíbrio: sou entusiasta de bons cafés e da culinária italiana, gosto do contraste entre a tranquilidade do campo e momentos agitados com amigos, e não abro mão do tradicional churrasco em família aos domingos.
 
 <div align="center">
 
@@ -21,7 +22,7 @@ Fora dos terminais e servidores, valorizo o equilíbrio: sou entusiasta de bons 
 
 </div>
 
-#### 2. As Badges (Tech Stack)
+## 2. As Badges (Tech Stack)
 
 ### 🛜 Redes de Computadores
 - Firewall pfSense, OPNsense
@@ -82,6 +83,10 @@ Fora dos terminais e servidores, valorizo o equilíbrio: sou entusiasta de bons 
 - Git
 - Prisma
 
-## Contato
+[!IMPORTANT] 
 
-Estou sempre aberto a novos desafios, troca de ideias sobre arquitetura de redes ou para bater um papo sobre soluções de segurança. Fique à vontade para me acionar via linkedIn ou e-mail: julioc.comercialbr@gmail.com
+Contato: estou sempre aberto a novos desafios, troca de ideias sobre arquitetura de redes ou para bater um papo sobre soluções de segurança. Fique à vontade para me acionar via linkedIn ou e-mail: julioc.comercialbr@gmail.com
+
+[!WARNING]
+
+Veja meu linkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcesarjulioof/)
